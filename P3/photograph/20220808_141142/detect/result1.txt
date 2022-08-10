@@ -1,0 +1,7 @@
+Mask 0.42
+People 0.67
+Protective clothing 0.81
+Not dressed headgear 0.90
+Not dressed shoe cover 0.91
+Not dressed shoe cover 0.92
+Mask 0.94

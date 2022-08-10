@@ -1,0 +1,5 @@
+People 0.45
+Not dressed bilayer glove 0.47
+Not dressed shoe cover 0.56
+Not dressed bilayer glove 0.56
+Not dressed bilayer glove 0.64

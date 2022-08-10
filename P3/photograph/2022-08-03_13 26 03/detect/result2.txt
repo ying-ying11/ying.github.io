@@ -1,0 +1,3 @@
+Not dressed headgear 0.37
+Mask 0.58
+People 0.61

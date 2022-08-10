@@ -1,0 +1,9 @@
+Mask 0.49
+Protective clothing 0.53
+People 0.79
+Not dressed bilayer glove 0.87
+Not dressed shoe cover 0.88
+Not dressed shoe cover 0.89
+Not dressed headgear 0.90
+Not dressed bilayer glove 0.90
+Mask 0.91

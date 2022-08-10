@@ -1,0 +1,4 @@
+People 0.54
+Mask 0.58
+Not dressed shoe cover 0.64
+Not dressed bilayer glove 0.72
